@@ -1,0 +1,9 @@
+body {
+    background-color: var(--primary-bg);
+    color: var(--primary-txt);
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+select {
+    padding: 5px;
+}
